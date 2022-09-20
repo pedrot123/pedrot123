@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedrot123
+- 👋 Hi, I’m Pedro Torres
 - 👀 I’m interested in programming, research, ML & AL, software engineering
 - 💞️ I’m looking to collaborate on projects and research
 - 📫 How to reach me pedrotorres8412@gmail.com
